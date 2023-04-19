@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/*#hello {
+  background-color: tomato;
+}
+
+.myHello {
+  background-color: lightgreen;
+}
+
+.myImage {
+  text-align: center;
+}
+
+.myImage img {
+  border-radius: 50%;
+}*/
+
+/*.myBtn {
+  width: 50px; 
+  height: 50px; 
+  font-size: 2rem!important;
+  display: flex!important; 
+  align-items: center;
+  justify-content: center; 
+}*/
+
+.myBg {
+  background: url("https://www.fodors.com/wp-content/uploads/2018/10/HERO_Angkor101_dreamstime_xxl_79474210.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@400;600&family=Bungee+Spice&family=Content&family=Cormorant+Garamond:wght@300&family=Edu+NSW+ACT+Foundation&family=Edu+TAS+Beginner&family=Freehand&family=Koulen&family=Lobster&family=Lora&family=Noto+Serif+Khmer:wght@200;500&family=Nunito:wght@200;300;400;600;700&family=Open+Sans:wght@300;400&family=Pacifico&family=Poppins:wght@300&family=Press+Start+2P&family=Raleway:wght@300&family=Roboto&family=Ubuntu:wght@700&display=swap");
+
+.myFont {
+  font-family: "Noto Serif Khmer", serif;
+}
